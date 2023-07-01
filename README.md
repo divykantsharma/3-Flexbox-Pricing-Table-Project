@@ -1,2 +1,2 @@
 # 3.-Flexbox-Pricing-Table-Project
-Made this project under guidance of Angela Yu , with the help of FLEXBOX using internal CSS
+Made this project with the help of FLEXBOX using internal CSS and also used media queries to make it responsive.
